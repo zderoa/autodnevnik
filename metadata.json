@@ -1,0 +1,6 @@
+{
+  "name": "AutoDnevnik - Digitalna Servisna Knjižica",
+  "description": "Moderna digitalna servisna evidencija za vozila, praćenje održavanja, troškova, registracije i korisnički nalozi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
